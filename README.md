@@ -7,5 +7,7 @@ I mostly program in Python, but am comfortable with Matlab, C, C++, Verilog HDL 
 How to reach me: 
 
 Email: garofo24@students.rowan.edu
+
 LinkedIn: https://www.linkedin.com/in/james-garofolo-057bb1207/
+
 Orcid: https://orcid.org/0000-0003-0397-2211
