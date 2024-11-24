@@ -1,6 +1,6 @@
 Hi, I’m @James-Garofolo
 
-I'm currently a Masters student in the Optics Lab at Rowan University, studying neuromorphic computing and machine learning. I also work in the domains of signal processing, UX/UI design and embedded systems design. 
+I'm currently a test engineer at Global Foundries, specializing in silicon photonics. I received my Masters in Electrical and Computer Engineering from Rowan University, studying photonic neuromorphic computing and machine learning under Dr. Ben Wu.
 
 I mostly program in Python, but am comfortable with Matlab, C, C++, Verilog HDL and Basic as well. 
 
